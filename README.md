@@ -4,4 +4,4 @@
 
 ---
 
-Auteur : [Edouard Mathieu](https://edomt.github.io/about/)
+Résumés par [Edouard Mathieu](https://edomt.github.io/about/)
