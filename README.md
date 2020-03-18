@@ -1,4 +1,4 @@
-## Articles scientifiques sur le COVID-19, résumés en français en ~500 mots
+## Articles scientifiques sur le COVID-19, résumés en ~3 minutes de lecture et en français
 
 [Li et al., Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](/20200318_dissemination.md) – publié le 16/03/20, résumé le 18/03/20
 
