@@ -13,7 +13,7 @@ Les infections peuvent être divisées en deux catégories simples :
 - Les infections identifiées (qui ont fait l’objet d’un test, dont le résultat était positif) ;
 - Les infections non identifiées (symptômatiques ou asymptômatiques, mais qui en tout cas n’ont pas été testées et confirmées).
 
-Les résultats majeurs de l’étude concernent l’importance des cas non identifiés dans la propagation du virus entre le 10 et le 23 janvier :
+Les résultats majeurs concernent l’importance des cas non identifiés dans la propagation du virus entre le 10 et le 23 janvier :
 
 - Seules **14 % des infections auraient été identifiées** et confirmées. **86 % des infections n’auraient donc pas été identifiées** ; un résultat cohérent avec les taux constatés lors des tests parmi les ressortissants étrangers évacués de Wuhan.
 - Ces cas non identifiés seraient **entre 46 % et 62 % aussi contagieux** que les cas identifiés.
