@@ -1,7 +1,5 @@
 ## Articles scientifiques sur le COVID-19, résumés en 3 minutes de lecture et en français
 
----
-
 Si vous souhaitez recevoir chaque résumé d'article par mail, l'inscription est ici : http://eepurl.com/gWQveb
 
 ---
