@@ -1,4 +1,4 @@
-## Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2) – 16/03/20
+## Le nombre important d'infections non identifiées facilite la dissémination rapide du coronavirus (SARS-CoV2) – 16/03/20
 
 [Lien vers l'article original](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 
