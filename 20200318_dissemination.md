@@ -4,7 +4,7 @@
 
 ### Résumé
 
-Cet article se concentre sur les non identifiés de SARS-CoV2 en Chine. Cette estimation est importante car en l’absence de symptôme dans des cas bénins de la maladie, la part de cas non identifiés et leur infectiosité peuvent avoir des conséquences majeures sur la propagation de l’épidémie dans une population.
+Cet article se concentre sur les cas non identifiés de SARS-CoV2 en Chine. Cette estimation est importante car en l’absence de symptôme dans des cas bénins de la maladie, la part de cas non identifiés et leur infectiosité peuvent avoir des conséquences majeures sur la propagation de l’épidémie dans une population.
 
 L’équipe de recherche a modélisé les dynamiques d’infection dans 375 villes chinoises, pendant deux périodes, avant et après les restrictions appliquées par le gouvernement chinois. Des données de mobilité provenant de Tencent et Baidu ont notamment été utilisées pour simuler les déplacements de population.
 
