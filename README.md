@@ -4,6 +4,8 @@ Pour recevoir chaque résumé d'article par e-mail : [https://eepurl.com/gWQveb]
 
 ---
 
+[Hopkins Tanne et al., "Comment les médecins et les systèmes de santé s’attaquent au coronavirus à travers le monde" [focus sur l'Inde]](/20200321_india.md) (publié le 18/03/20, résumé le 21/03/20)
+
 [Cortegiani et al., "Une revue systématique de l’efficacité et de la sécurité de la chloroquine pour le traitement du COVID-19"](/20200320_chloroquine.md) (publié le 10/03/20, résumé le 20/03/20)
 
 [Fisher et al., "La communauté internationale doit rapidement accroître ses efforts pour contenir le COVID-19"](/20200319_response.md) (publié le 19/03/20, résumé le 19/03/20)
