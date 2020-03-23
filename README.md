@@ -4,6 +4,8 @@ Pour recevoir chaque résumé d'article par e-mail : [https://eepurl.com/gWQveb]
 
 ---
 
+[Van Doremalen et al., "Stabilité du SARS-CoV-2 dans l’air et sur les surfaces"](/20200322_stability.md) (publié le 17/03/20, résumé le 23/03/20)
+
 [Hopkins Tanne et al., "Comment les médecins et les systèmes de santé s’attaquent au coronavirus à travers le monde" [focus sur l'Inde]](/20200321_india.md) (publié le 18/03/20, résumé le 21/03/20)
 
 [Cortegiani et al., "Une revue systématique de l’efficacité et de la sécurité de la chloroquine pour le traitement du COVID-19"](/20200320_chloroquine.md) (publié le 10/03/20, résumé le 20/03/20)
