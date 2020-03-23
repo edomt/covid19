@@ -1,6 +1,6 @@
-## Une revue systématique de l’efficacité et de la sécurité de la chloroquine pour le traitement du COVID-19 – 10/03/20
+## Une revue systématique de l’efficacité et de la sécurité de la chloroquine pour le traitement du COVID-19
 
-[Lien vers l'article original](https://www.sciencedirect.com/science/article/pii/S0883944120303907?via%3Dihub#bb0015)
+[Lien vers l'article original (10/03/20)](https://www.sciencedirect.com/science/article/pii/S0883944120303907?via%3Dihub#bb0015)
 
 ### Résumé
 
