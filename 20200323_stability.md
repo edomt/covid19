@@ -4,7 +4,7 @@
 
 ### Résumé
 
-Cet article, co-écrit par des chercheurs américains et publié le 17 mars, donne les résultats des premiers tests de stabilité du virus SARS-CoV-2 (virus causant la maladie COVID-19) sur différentes surfaces et dans l’air. Jusqu’alors, les chiffres qui circulaient dans les médias provenaient d’études précédentes qui avaient testé la survie du SARS-CoV-1, « l’autre » coronavirus à l’origine de l’épidémie de 2002-2004.
+Cet article, co-écrit par des chercheurs américains et publié le 17 mars, donne les résultats des premiers tests de stabilité du virus SARS-CoV-2 (causant la maladie COVID-19) sur différentes surfaces et dans l’air. Jusqu’alors, les chiffres qui circulaient dans les médias provenaient d’études précédentes qui avaient testé la survie du SARS-CoV-1, « l’autre » coronavirus à l’origine de l’épidémie de 2002-2004.
 
 Bien que les deux virus soient similaires, ces nouveaux tests ont donc vraiment été réalisés sur celui à l’origine de la pandémie actuelle, et décrivent donc mieux les risques de transmission dans la période actuelle. Les résultats de l’étude listent la demi-vie et le temps maximum de survie du virus dans 5 milieux/surfaces différents :
 
