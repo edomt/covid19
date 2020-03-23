@@ -16,4 +16,4 @@ Pour recevoir chaque résumé d'article par e-mail : [https://eepurl.com/gWQveb]
 
 ---
 
-Résumés par [Edouard Mathieu](https://edomt.github.io/about/)
+Résumés par [Edouard Mathieu](https://edomt.github.io/)
