@@ -1,6 +1,6 @@
-## Stabilité du SARS-CoV-2 dans l’air et sur les surfaces – 17/03/20
+## Stabilité du SARS-CoV-2 dans l’air et sur les surfaces
 
-[Lien vers l'article original](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+[Lien vers l'article original (17/03/20)](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
 
 ### Résumé
 
