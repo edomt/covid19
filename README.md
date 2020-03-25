@@ -4,6 +4,8 @@ Pour recevoir chaque résumé d'article par e-mail : [https://eepurl.com/gWQveb]
 
 ---
 
+[Lai et al., "Facteurs associés aux conséquences du COVID-19 sur la santé mentale des soignants"](/20200325_mental.md) (publié le 23/03/20, résumé le 25/03/20)
+
 [Delfraissy et al., "Avis du conseil scientifique français du 23 mars 2020"](/20200324_conseil.md) (publié le 24/03/20, résumé le 24/03/20)
 
 [Van Doremalen et al., "Stabilité du SARS-CoV-2 dans l’air et sur les surfaces"](/20200323_stability.md) (publié le 17/03/20, résumé le 23/03/20)
